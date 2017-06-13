@@ -10,7 +10,7 @@ object HelloThread{
     /**
     Instansiating 2 threads and running them together
     will not guarantee of them executing in parallel
-    unless explicitly synchronisation is called
+    unless explicitly synchronisation is used to define certain block
     to observe this run it several time to see different output
     */
 
